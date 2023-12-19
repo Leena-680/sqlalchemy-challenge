@@ -11,7 +11,8 @@ It also generates temperature observations (TOBS) histogram for busiest observat
 
 
 app.py
-This is a flask website. It has following pages.
+This is a flask website. It has following pages.  
+
 /  
 /api/v1.0/precipitation  
 /api/v1.0/stations  
