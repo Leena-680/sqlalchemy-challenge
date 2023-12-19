@@ -12,9 +12,10 @@ It also generates temperature observations (TOBS) histogram for busiest observat
 
 app.py
 This is a flask website. It has following pages.
-/
-/api/v1.0/precipitation
-/api/v1.0/stations
-/api/v1.0/tobs
-/api/v1.0/<start>
-/api/v1.0/<start>/<end>
+/  
+/api/v1.0/precipitation  
+/api/v1.0/stations  
+/api/v1.0/tobs  
+/api/v1.0/<start>  
+/api/v1.0/<start>/<end>  
+
